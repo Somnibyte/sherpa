@@ -34,6 +34,7 @@ Projects repos should always contain a README so that future development teams c
 * [iOS Resources](ios/README.md)
 * [iOS Build Reporting On Jenkins Via Danger](ios/ios_danger.md)
 * [iOS Code Coverage On Jenkins](ios/ios_code_coverage.md)
+* [iOS Jenkins Pipeline Setup](ios/ios_jenkins_pipeline_guide.md)
 * [Android Jenkins setup instructions](android/android_jenkins.md)
 * [Stuff to read for Android devs](android/stuff_to_read.md)
 * [Stuff to read for iOS devs](ios/stuff_to_read.md)
